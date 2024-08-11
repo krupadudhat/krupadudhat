@@ -1,12 +1,7 @@
-![image](https://github.com/user-attachments/assets/fc5fd4dd-2861-4e80-b02f-abc833ff1450)
 <h1 align="center">Hi 👋, I'm Krupa Dudhat</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-
 <p align="left"> <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="krupadudhat" /> </p>
-
-
-- ⚡ Fun fact **I am funny😅**
 
 <h1 align="center">Hi 👋, I'm Krupa Dudhat</h1>
 <h3 align="center">A passionate frontend developer</h3>
