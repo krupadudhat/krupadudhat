@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krupa Dudhat</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="center"> <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="krupadudhat" /> </p>
+<p align="center"> <img src="https://img.freepik.com/premium-photo/minimalistic-flat-color-girl-that-is-using-laptop-beautiful-illustration-picture-generative-ai_146671-95874.jpg" alt="krupadudhat" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
