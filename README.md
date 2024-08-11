@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="krupadudhat" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="krupadudhat" /> </p>
 
 <h1 align="left">Hi 👋, I'm Krupa Dudhat</h1>
 <h3 align="left">A passionate frontend developer</h3>
