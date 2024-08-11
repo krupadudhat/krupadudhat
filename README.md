@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krupa Dudhat</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif" alt="krupadudhat" /> </p>
+<p align="center"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif" alt="krupadudhat" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
