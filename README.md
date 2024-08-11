@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krupa Dudhat</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="center"> <img src="LOGO_v2-02-removebg-preview.png" alt="krupadudhat" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" alt="krupadudhat" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
