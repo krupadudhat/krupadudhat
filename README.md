@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Krupa Dudhat</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<p align="right"> <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="krupadudhat" /> </p>
 
-<p align="left"> <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="krupadudhat" /> </p>
-
-<h1 align="center">Hi 👋, I'm Krupa Dudhat</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Krupa Dudhat</h1>
+<h3 align="left">A passionate frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
